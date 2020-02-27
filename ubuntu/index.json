@@ -1,8 +1,8 @@
 {
-  "title": "Ubuntu course",
-  "description": "Ubuntu practice",
-  "difficulty": "Intermediate",
-  "time": "20",
+  "title": "ubutnu learn",
+  "description": "ubutnu terminal",
+  "difficulty": "Beginner",
+  "time": "30",
   "details": {
     "steps": [
       {
@@ -37,6 +37,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "airflow:1.10"
+    "imageid": "openjdk:15"
   }
 }
